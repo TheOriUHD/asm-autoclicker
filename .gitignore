@@ -1,0 +1,11 @@
+# Build intermediates
+*.obj
+*.res
+*.pdb
+*.ilk
+
+# Local editor/OS files
+.vs/
+.vscode/
+Thumbs.db
+Desktop.ini
